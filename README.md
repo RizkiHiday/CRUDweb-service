@@ -1,4 +1,4 @@
-# crud_json
+# Rizki Hidayat
+# NPM 5220411232
 
-A new Flutter project.
-# Web-service_CRUD
+untuk dummy servernya saya menggunakan [MOCKAPI.IO](https://mockapi.io/projects)
